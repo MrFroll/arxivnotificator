@@ -1,0 +1,46 @@
+Authors: Sofiane Faci
+Title: Conformal invariance: from Weyl to SO(2,d). (arXiv:1206.4362v6 [hep-th] UPDATED)
+
+Abstract:
+	The present work deals with two different but subtilely related kinds of
+conformal mappings: Weyl rescaling in $d&gt;2$ dimensional spaces and SO(2,d)
+transformations. We express how the difference between the two can be
+compensated by diffeomorphic transformations. This is well known in the
+framework of String Theory but in the particular case of $d=2$ spaces. Indeed,
+the Polyakov formalism describes world-sheets in terms of two-dimensional
+conformal field theory. On the other hand, B. Zumino had shown that a classical
+four-dimensional Weyl-invariant field theory restricted to live in Minkowski
+space leads to an SO(2,4)-invariant field theory. We extend Zumino's result to
+relate Weyl and SO(2,d) symmetries in arbitrary conformally flat spaces (CFS).
+This allows us to assert that a classical $SO(2,d)$-invariant field does not
+distinguish, at least locally, between two different $d$-dimensional CFSs.
+Link: http://arxiv.org/abs/1206.4362
+***********************
+
+Authors: José P. Mimoso, Morgan Le Delliou, Filipe C. Mena
+Title: Local conditions separating expansion from collapse in spherically symmetric models with anisotropic pressures. (arXiv:1302.6186v3 [gr-qc] UPDATED)
+
+Abstract:
+	We investigate spherically symmetric spacetimes with an anisotropic fluid and
+discuss the existence and stability of a dividing shell separating expanding
+and collapsing regions. We resort to a 3+1 splitting and obtain gauge invariant
+conditions relating intrinsic spacetimes quantities to properties of the matter
+source. We find that the dividing shell is defined by a generalization of the
+Tolman-Oppenheimer-Volkoff equilibrium condition. The latter establishes a
+balance between the pressure gradients, both isotropic and anisotropic, and the
+strength of the fields induced by the Misner-Sharp mass inside the separating
+shell and by the pressure fluxes. This defines a local equilibrium condition,
+but conveys also a non-local character given the definition of the Misner-Sharp
+mass. By the same token, it is also a generalized thermodynamical equation of
+state as usually interpreted for the perfect fluid case, which now has the
+novel feature of involving both the isotropic and the anisotropic stress. We
+have cast the governing equations in terms of local, gauge invariant quantities
+which are revealing of the role played by the anisotropic pressures and
+inhomogeneous electric part of the Weyl tensor. We analyse a particular
+solution with dust and radiation that provides an illustration of our
+conditions. In addition, our gauge invariant formalism not only encompasses the
+cracking process from Herrera and coworkers but also reveals transparently the
+interplay and importance of the shear and of the anisotropic stresses.
+Link: http://arxiv.org/abs/1302.6186
+***********************
+

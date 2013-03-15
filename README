@@ -1,0 +1,18 @@
+=========
+ArxivNotificator
+=========
+
+ArxivNotificator -- is a little script that notify users about interesting articles in ArXiv.org by e-mail. The papers are chosen by key-words in title and in abstract and by authors.
+
+============
+Usage
+============
+
+Fill in fields in settings.py:
+    server -- mail server name.
+    port -- port number
+    sender -- sender name
+    passw -- password of sender
+    recipient -- recipient name
+    keywords -- list of interesting key-words
+    keyauthors -- list of interesting authors
