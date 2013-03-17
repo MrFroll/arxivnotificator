@@ -61,7 +61,7 @@ def send_mail(message):
     dt = datetime.datetime.now()
     try:
         mime = MIMEText(message, 'plain', 'utf-8')
-        mime['Subject'] = "Latest arxiv.org news from " + dt.isoformat()
+        mime['Subject'] = "Latest arxiv.org news from " + dt.strftime('%d.%m.%Y')
         mime['From'] = settings.sender
         mime['To'] = settings.recipient
         smtp = smtplib.SMTP(settings.server, settings.port)
@@ -73,7 +73,7 @@ def send_mail(message):
         smtp.close()
         print dt.strftime('%d.%m.%Y %H:%M') + ": The mail notification was sent"
     except Exception as e:
-        error_log('The email from cannot be send.',e)
+        error_log('The email cannot be send.',e)
         sys.exit()
 
 count = parse_article(xml,settings.keyauthors,settings.keywords)
