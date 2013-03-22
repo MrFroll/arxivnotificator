@@ -82,7 +82,7 @@ if count == 0:
 elif count == 1:
     msg = msg + "There is one interesting article today:"
 else:
-    msg = msg + "There are "+str(count)+" interesting article today:"
+    msg = msg + "There are "+str(count)+" interesting articles today:"
 msg = msg+"\n\n"
 fp = open("result.txt", "rb")
 msg = msg + fp.read()
